@@ -11,7 +11,7 @@ If you need to place the javascript file in a different location, you only need 
 
 I hope you enjoy this fancy web part. And you can try it in the [Demo Page](https://jgirbau.github.io/thermo-h/).
 
-For more information or spacial requests you can contact: [jorge.girbau@gmail.com](emailto:jorge.girbau@gmail.com).
+For more information or spacial requests you can contact: [jorge.girbau@gmail.com](https://github.com/jgirbau).
 
 Best Regards,
 Jorge Girbau
